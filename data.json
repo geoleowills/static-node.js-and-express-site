@@ -1,0 +1,49 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "Random Quote Generator",
+            "description": "This app shows random quotes related to programming, you can either clicked the button or wait 20 seconds for it to refresh. The colour also changes each time that a quote changes.",
+            "technologies": ["Javascript", "HTML", "CSS"],
+            "live_link": "https://geoleowills.github.io/random-quote-generator/",
+            "github_link": "https://github.com/geoleowills/random-quote-generator",
+            "image_urls": ["/static/images/random_quote_generator_img1.png", "/static/images/random_quote_generator_img2.png"]
+        },
+        {
+            "id": 1,
+            "project_name": "Dynamic List Pagination and Filtering",
+            "description": "This is a JavaScript application that dynamically appends and unordered list with links for pagination at the bottom of the page. This project uses vanilla JavaScript, it dynamically in inserts pagination links into a page that contains an unordered list of any size.",
+            "technologies": ["Javascript", "HTML", "CSS"],
+            "live_link": "https://geoleowills.github.io/dynamic-list-pagination-and-filtering/",
+            "github_link": "https://github.com/geoleowills/dynamic-list-pagination-and-filtering",
+            "image_urls": ["/static/images/dynamic_list_pagination_filtering_img1.png", "/static/images/dynamic_list_pagination_filtering_img2.png"]
+        },
+        {
+            "id": 2,
+            "project_name": "Interactive Form",
+            "description": "This is an interactoive form that you can fill in with your details, it dynamically adds different options depending on what you select, it also validates all of the data such as credit card info and email adress to make sure that they are all correct.",
+            "technologies": ["Javascript", "HTML", "CSS"],
+            "live_link": "https://geoleowills.github.io/interactive-form/",
+            "github_link": "https://github.com/geoleowills/interactive-form",
+            "image_urls": ["/static/images/interactive_form_img1.png", "/static/images/interactive_form_img2.png", "/static/images/interactive_form_img3.png", "/static/images/interactive_form_img4.png"]
+        },
+        {
+            "id": 3,
+            "project_name": "Phrase Hunter Game",
+            "description": "This is a game that, you see some empty boxes that contain a phrase, you have to guess what the phrase is and you lose lives if you select an incorrect letter. You can use either your on screen or physical keyboard for input.",
+            "technologies": ["Javascript", "HTML", "CSS"],
+            "live_link": "https://geoleowills.github.io/phrase-hunter-game/",
+            "github_link": "https://github.com/geoleowills/phrase-hunter-game",
+            "image_urls": ["/static/images/phrase_hunter_img1.png", "/static/images/phrase_hunter_img2.png", "/static/images/phrase_hunter_img3.png", "/static/images/phrase_hunter_img4.png", "/static/images/phrase_hunter_img5.png"]
+        },
+        {
+            "id": 4,
+            "description": "This is an employee directiory app that fetches data from an API and displays the data on screen, you can search for employees, select employees to show more info and navigate through them with a next and prev button.",
+            "project_name": "Employee Directory",
+            "technologies": ["Javascript", "HTML", "CSS", "Fetch API"],
+            "live_link": "https://geoleowills.github.io/public-api-requests/",
+            "github_link": "https://github.com/geoleowills/public-api-requests",
+            "image_urls": ["/static/images/employee_directory_img1.png", "/static/images/employee_directory_img2.png", "/static/images/employee_directory_img3.png"]
+        }
+    ]
+}
