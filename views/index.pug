@@ -14,7 +14,7 @@ block content
 
       each project in projects
         .cell
-          a(href= project.live_link target= "_blank")
+          a(href= `/project/${project.id}` target= "_blank")
             img.thumbnail(src= project.image_urls[0])
             h5= project.project_name 
         
